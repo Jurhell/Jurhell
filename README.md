@@ -1,4 +1,10 @@
-### Hi there 👋
+# About Me
+I'm Jurhell Hughes, a Unity programmer. My latest project is a Unity game called LooterLand.
+
+#Projects
+## LooterLand
+Finish this
+
 
 <!--
 **Jurhell/Jurhell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
