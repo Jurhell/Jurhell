@@ -1,7 +1,7 @@
 # About Me
 I'm Jurhell Hughes, a Unity programmer. My latest project is a Unity game called LooterLand.
 
-#Projects
+# Projects
 ## LooterLand
 Finish this
 
