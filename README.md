@@ -3,9 +3,11 @@ I'm Jurhell Hughes, a Unity programmer. My latest project is a Unity game called
 
 # Projects
 ## LooterLand
-(Image)
-(Description)
-(Itch Link)
+<img src="/Images/LootemLand.png" alt="LooterLand" width="500"/>
+LooterLand is a top down 2.5D game created in Unity. LooterLand was student project mad at AIE with a full development cycle from planning to post-production. With a team made up of three programmmers and eight artists. My responsibilites on this project were AI programming, UI and Menu programming, along with the game's end state.
+
+- [Itch](https://looter-land.itch.io/looter-land)
+- [Repository](https://github.com/drew-aie/2024-MinorProduction-LooterLand/tree/dev)
 
 <!--
 **Jurhell/Jurhell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
