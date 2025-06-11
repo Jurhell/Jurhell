@@ -4,7 +4,7 @@ I'm Jurhell Hughes, a Unity programmer. My latest project is an Unreal Engine 5 
 # Projects
 ## LooterLand
 ![looterland](https://github.com/user-attachments/assets/cb021c8d-bb26-4c3e-8fa9-a2567479612d)
-LooterLand is a top down 2.5D game created in Unity. LooterLand was student project mad at AIE with a full development cycle from planning to post-production. With a team made up of three programmmers and eight artists. My responsibilites on this project were AI programming, UI and Menu programming, along with the game's end state.
+LooterLand is a top down 2.5D game created in Unity. LooterLand was student project made at AIE with a full development cycle from planning to post-production. With a team made up of three programmmers and eight artists. My responsibilites on this project were AI programming, UI and Menu programming, along with the game's end state.
 
 - [Itch](https://looter-land.itch.io/looter-land)
 - [Repository](https://github.com/drew-aie/2024-MinorProduction-LooterLand/tree/dev)
