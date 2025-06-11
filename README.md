@@ -1,5 +1,5 @@
 # About Me
-I'm Jurhell Hughes, a Unity programmer. My latest project is a Unity game called LooterLand.
+I'm Jurhell Hughes, a Unity programmer. My latest project is an Unreal Engine 5 game called Escape Velocity.
 
 # Projects
 ## LooterLand
