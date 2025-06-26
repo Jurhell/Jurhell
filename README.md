@@ -1,5 +1,5 @@
 # About Me
-I'm Jurhell Hughes, a Unity and Unreal programmer. My latest project is an Unreal Engine 5 game called Escape Velocity.
+I'm Jurhell Hughes, a Unity and Unreal programmer. My main programming languages are C# and C++, I have 2 years of experience working in a studio environment and am familiar with the game development pipeline. So far I have helped create and ship three projects with a small team at AIE with my latest project being an Unreal Engine 5 game called Escape Velocity. I'm eager to work on more games to sharpen my skills become a better game developer.
 
 # Projects
 ## LooterLand
