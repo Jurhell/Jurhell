@@ -5,8 +5,11 @@ Business E-mail: somethinghughes@gmail.com
 
 # Projects
 ## Escape Velocity
-![escapevelocity](https://github.com/Jurhell/Jurhell/blob/main/escapevelocity.png)
+![escapevelocity](https://github.com/Jurhell/Jurhell/blob/main/escapevelocity.png) <img src="[path-to-image-in-repo](https://github.com/Jurhell/Jurhell/blob/main/escapevelocity.png)" width="500"/>
 Escape Velocity is a 3D platformer created in Unreal Engine 5. Escape Velocity was our final student project made at AIE, it had a full development cycle of 6 months from planning to post-production. You play as an astronaut named Sal and must hurl yourself through space and across planets in search of a rare mineral with the use of your propulsion cannon. The planets feature dynamic gravity to keep you grounded but you have to be careful, maneuvering through space is tricky and you have a limited supply of oxygen. With a team two programmers and eight artists, my duties were creating the functionality for the propulsion cannon, handling the physics that came with it, and hooking it into the UI. As well as creating the oxygen system and it's depletion outside of an atmosphere and even displaying the amount in the UI. I also created some smaller mechanics such as the buttons and launch pads, and did half of all the debugging.
+
+- [Itch](https://sal-ev.itch.io/escape-velocity)
+- [Repository](https://github.com/Jurhell/EscapeVelocity)
 
 ## LooterLand
 ![looterland](https://github.com/user-attachments/assets/cb021c8d-bb26-4c3e-8fa9-a2567479612d)
